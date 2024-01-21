@@ -1,0 +1,4 @@
+python3-pythran: copyright-without-copyright-notice
+python3-pythran: initial-upload-closes-no-bugs
+python3-pythran: no-manual-page
+python3-pythran: zero-byte-file-in-doc-directory
