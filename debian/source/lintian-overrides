@@ -1,0 +1,5 @@
+python-pythran source: file-without-copyright-information
+python-pythran source: no-debian-changes
+python-pythran source: source-contains-prebuilt-windows-binary
+python-pythran source: source-is-missing
+python-pythran source: source-package-encodes-python-version
