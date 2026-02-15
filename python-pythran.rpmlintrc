@@ -1,0 +1,4 @@
+addFilter("devel-dependency")
+addFilter("devel-file-in-non-devel-package")
+addFilter("filelist-forbidden-backup-file")
+addFilter("files-duplicate")
